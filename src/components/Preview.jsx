@@ -17,12 +17,12 @@ const Preview = () => {
         <div className="preview__experience__body">
           <div className="preview__experience__body__input">
             <div className="preview__experience__body__info">
-              <span className="preview__experience__body__info__title">Web Developer</span>
-              <span className="preview__experience__body__info__duration">2010-2015</span>
+              <h3 className="preview__experience__body__info__title">Web Developer</h3>
+              <p className="preview__experience__body__info__duration">2010-2015</p>
             </div>
             <div className="preview__experience__body__location">
-              <span className="preview__experience__body__location__company">Moon Corp</span>
-              <span className="preview__experience__body__location__city">Big Crater</span>
+              <h3 className="preview__experience__body__location__company">Moon Corp</h3>
+              <p className="preview__experience__body__location__city">Big Crater</p>
             </div>
             <ul className="preview__experience__body__bullets">
               <li className="preview__experience__body__bullets__item">Marvelous things</li>
@@ -36,12 +36,12 @@ const Preview = () => {
         <div className="preview__education__body">
           <div className="preview__education__body__item">
             <div className="preview__education__body__item__info">
-              <span className="preview__education__body__item__info__degree">Bachelor of engineering</span>
-              <span className="preview__education__body__item__info__duration">2005-2010</span>
+              <h3 className="preview__education__body__item__info__degree">Bachelor of engineering</h3>
+              <p className="preview__education__body__item__info__duration">2005-2010</p>
             </div>
-            <div className="preivew__education__body__item__location">
-              <span className="preview__education__body__item__location__institute">Big Crater University</span>
-              <span className="preview__education__body__item__location__city">Moon</span>
+            <div className="preview__education__body__item__location">
+              <h3 className="preview__education__body__item__location__institute">Big Crater University</h3>
+              <p className="preview__education__body__item__location__city">Moon</p>
             </div>
           </div>
         </div>
