@@ -1,11 +1,11 @@
 import { useState } from 'react';
-import Cv from './components/Cv.jsx';
+import Build from './components/Build.jsx';
 import Preview from './components/Preview.jsx';
 
 function App() {
   return (
     <div className="app">
-      <Cv />
+      <Build />
       <Preview />
     </div>
   );

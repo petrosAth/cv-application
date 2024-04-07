@@ -1,4 +1,4 @@
-const Cv = () => {
+const Build = () => {
   return (
     <div className="builder">
       <h1>CV Builder</h1>
@@ -6,4 +6,4 @@ const Cv = () => {
   );
 };
 
-export default Cv;
+export default Build;
